@@ -1,0 +1,2 @@
+# Stack_fifo
+kata
