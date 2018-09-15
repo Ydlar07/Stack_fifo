@@ -32,7 +32,7 @@ public class Stack
     if(listQueue.size() == 0)
     {
       emptyQueue = true;
-    } else if (listQueue.size() == 1)
+    } else if  (listQueue.size() == 1)
     {
       listQueue.remove(0);
       emptyQueue = true;
